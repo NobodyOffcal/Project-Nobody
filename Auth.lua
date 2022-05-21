@@ -12,13 +12,4 @@ return
     "NobodyOffcal_Key_Status_Premium",
     "NobodyOffcal_Hwid_613EABB2-0ABE-4FA7-8EFC-9E876637FD21",
     
-    --Video
-    
-    "bobloxvsnobody_Banned_False",
-    "bobloxvsnobody_Rank_Administrator",
-    "bobloxvsnobody_Key_True",
-    "bobloxvsnobody_Key_Time_Lifetime",
-    "bobloxvsnobody_Key_Status_Premium",
-    "bobloxvsnobody_Hwid_613EABB2-0ABE-4FA7-8EFC-9E876637FD21",
-    
 }
