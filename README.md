@@ -1,1 +1,2 @@
-# Project-Nobody A Simple System For Bank Stealer SusNobody#4877 Here Discord : https://discord.gg/My3aBnaBaF
+# Project Nobody A Simple Protection System For Bank Stealer 
+# 𝙉𝙤𝙗𝙤𝙙𝙮#8213 Head Developer Of Project Nobody
